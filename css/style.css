@@ -1,4 +1,8 @@
 @charset "UTF-8";
+a {
+	scroll-margin-top: 70px;
+}
+
 a:focus,
 button:focus {
 	outline: none !important;
