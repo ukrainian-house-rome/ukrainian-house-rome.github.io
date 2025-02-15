@@ -10102,7 +10102,7 @@ html.tablet .ui-to-top {
 
 @media (min-width: 768px) {
 	.swiper-slider-1 {
-		min-height: 52.60417vw;
+		min-height: 29vw;
 	}
 	.swiper-slider-1 .swiper-pagination {
 		bottom: 35px;
